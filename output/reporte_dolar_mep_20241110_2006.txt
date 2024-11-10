@@ -1,0 +1,23 @@
+
+==================================================
+INFORME DE COTIZACIÓN DÓLAR MEP
+==================================================
+
+Fecha y hora del informe: 10/11/2024 20:06:33
+
+Resultados por fuente:
++----------+----------------+-------------+----------------+
+| Fuente   | Timestamp      | Valor MEP   | Tiempo Ejec.   |
++==========+================+=============+================+
+| DolarHoy | 10/11/24 20:06 | $1130.10    | 51.29s         |
++----------+----------------+-------------+----------------+
+
+Análisis estadístico:
+Valor promedio: $1130.10
+Valor máximo: $1130.10
+Valor mínimo: $1130.10
+Spread máximo entre fuentes: $0.00
+
+Métricas de rendimiento:
+Tiempo total de ejecución: 51.43 segundos
+Tiempo promedio por fuente: 51.29 segundos
